@@ -1,0 +1,9 @@
+com/cryptoadvisor/ui/LoginScreen.class
+com/cryptoadvisor/ui/RegisterScreen.class
+com/cryptoadvisor/ui/HomeScreen$RecommendationItem.class
+com/cryptoadvisor/util/TokenManager.class
+com/cryptoadvisor/ui/PreferencesScreen.class
+com/cryptoadvisor/ui/ForumsScreen.class
+com/cryptoadvisor/CryptoAdvisorApp.class
+com/cryptoadvisor/ui/NewsScreen.class
+com/cryptoadvisor/ui/HomeScreen.class
