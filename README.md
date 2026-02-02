@@ -11,6 +11,7 @@
 
 
 **Future Implementations:**
+
 -Integrate a machine learning prediction engine trained on historical events(ex: COVID-19, AI Boom) to identify patterns that correlate these news events with stock movements
 
 -Add native stock and cryptocurrency trading functionality allowing users to execute transactions directly through the app
