@@ -9,6 +9,8 @@
 
 -Cite relevant news sources for the users to stay updated on the market
 
+-AI module to analyze market trends and provide portfolio insights
+
 
 **Future Implementations:**
 
